@@ -1,4 +1,4 @@
-# Repositório da implementação do padrão de Service Locator
+# Repositório da implementação do padrão Service Locator
 
 Este repositório contém a implementação do padrão de Projeto Service Locator, foi desenvolvido em Java.
 
